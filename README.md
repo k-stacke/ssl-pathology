@@ -1,5 +1,5 @@
 # Learning Representations with Contrastive Self-supervised Learning for Histopathology Application
-This is the official repo of the paper [Learning Representations with Contrastive Self-supervised Learning for Histopathology Application](https://arxiv.org/abs/2112.05760) by Karin Stacke, Jonas Unger, Claes Lundström and Gabriel Eilertsen, 2021, _in submission_.
+This is the official repo of the paper [Learning Representations with Contrastive Self-supervised Learning for Histopathology Application](https://arxiv.org/abs/2112.05760) by Karin Stacke, Jonas Unger, Claes Lundström and Gabriel Eilertsen, 2021, Journal of Machine Learning for Biomedical Imaging (MELBA) [https://www.melba-journal.org/papers/2022:023.html](https://www.melba-journal.org/papers/2022:023.html).
 
 The code builds upon the SimCLR implementation from: https://github.com/google-research/simclr.
 
